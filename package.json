@@ -1,0 +1,30 @@
+{
+  "name": "marktwo",
+  "version": "1.0.0",
+  "description": "levelZero-markTwo",
+  "main": "./bin/index.js",
+  "type": "module",
+  "bin": {
+    "marktwo": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thatbeautifuldream/markTwo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thatbeautifuldream/markTwo/issues"
+  },
+  "homepage": "https://github.com/thatbeautifuldream/markTwo#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.1.0"
+  }
+}
