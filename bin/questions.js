@@ -16,16 +16,8 @@ const questions = [
   },
   {
     question:
-      "What are the other package manager available in the JavaScript ecosystem?",
-    answer: "npm, yarn and pnpm",
-  },
-  {
-    question: "What is the diffrence between let and var?",
-    answer: "let is block scoped and var is function scoped",
-  },
-  {
-    question: "What is the diffrence between const and let?",
-    answer: "const is block scoped and let is function scoped",
+      "What is the other popular package manager available in the JavaScript ecosystem?",
+    answer: "yarn",
   },
   {
     question: "What is the name of the author of this quiz?",
